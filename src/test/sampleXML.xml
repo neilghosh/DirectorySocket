@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<services>
+	<service>
+		<serviceName>test.SampleClass</serviceName>
+		<methods>
+			<method>
+				<methodName>addNumbers</methodName>
+				<returnType>double</returnType>
+				<parameters>
+					<parameterType>double</parameterType>
+					<parameterType>double</parameterType>
+				</parameters>
+			</method>
+			<method>
+				<methodName>subtract</methodName>
+				<returnType>double</returnType>
+				<parameters>
+					<parameterType>double</parameterType>
+					<parameterType>double</parameterType>
+				</parameters>
+			</method>
+		</methods>
+	</service>
+</services>
